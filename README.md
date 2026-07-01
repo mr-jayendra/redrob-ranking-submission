@@ -1,4 +1,4 @@
-# Redrob AI Hackathon v4 — Candidate Ranking Pipeline
+#  Candidate Ranking Pipeline
 
 This repository contains a high-efficiency, multi-stage Retrieve-and-Rank pipeline designed to evaluate 100K+ candidates against the "Senior AI Engineer — Founding Team" Job Description. 
 
