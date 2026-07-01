@@ -1,8 +1,3 @@
-Here is the complete, competition-ready `README.md` file. It is structured to specifically address the grading criteria of Stage 3 (code reproduction) and Stage 4 (manual review), clearly explaining how the 5-minute compute constraints and the Job Description's behavioral traps were handled.
-
----
-
-```markdown
 # Redrob AI Hackathon v4 — Candidate Ranking Pipeline
 
 This repository contains a high-efficiency, multi-stage Retrieve-and-Rank pipeline designed to evaluate 100K+ candidates against the "Senior AI Engineer — Founding Team" Job Description. 
@@ -106,6 +101,4 @@ The pipeline utilizes an automated `sanity_check_output` function before writing
 A fully functional, end-to-end Google Colab environment containing a mock sample dataset is available to verify the environment constraints and execution limits:
 **https://colab.research.google.com/drive/1rguNINvKGiHLOzvXjoQVOCjvlvcEcSAA?hl=en#scrollTo=MGo7uyAG1f-h**
 
-```
 
-```
