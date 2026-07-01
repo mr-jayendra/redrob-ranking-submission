@@ -56,13 +56,12 @@ compute:
 # Transparency only — declared use is NOT penalized. Be honest. Stage 5 interview
 # may verify these declarations against your code; declarations that contradict
 # your code or your interview are flagged.
-ai_tools_used:
-  - "Claude"        
+ai_tools_used:       
   - "Gemini"
   # Other options: "ChatGPT", "Cursor", "Copilot", "Codeium", "Other", "None"
 
 ai_usage_summary: |
-  AI tools (Claude and Gemini) were used exclusively to generate code templates based on my architectural ideas and pipeline design. No candidate data was fed to any external LLM APIs.
+  AI tools (Gemini) were used exclusively to generate code templates based on my architectural ideas and pipeline design. No candidate data was fed to any external LLM APIs.
 
 # ============================================================================
 # Approach summary (optional but recommended)
