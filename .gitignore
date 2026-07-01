@@ -1,0 +1,10 @@
+# Ignore candidate data
+data/candidates.jsonl
+
+# Ignore generated vectors and dataframes
+artifacts/
+*.npy
+*.parquet
+
+# Ignore Python cache
+__pycache__/
